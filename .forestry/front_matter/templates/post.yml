@@ -4,10 +4,13 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  label: layout
-  name: layout
-- type: datetime
-  name: date
-  label: date
+  label: title
+  name: title
+- type: textarea
+  name: categories
+  label: categories
+- type: textarea
+  name: tags
+  label: tags
 pages:
 - _posts/2018-11-04-테스트-포스트.md
