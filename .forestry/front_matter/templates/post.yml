@@ -4,6 +4,9 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
+  label: layout
+  name: layout
+- type: text
   label: title
   name: title
 - type: textarea
