@@ -9,3 +9,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _posts/테스트-포스트.md
