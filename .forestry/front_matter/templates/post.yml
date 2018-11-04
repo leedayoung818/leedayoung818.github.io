@@ -16,4 +16,5 @@ fields:
   name: tags
   label: tags
 pages:
+- tags.md
 - _posts/2018-11-04-테스트-포스트.md
